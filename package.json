@@ -1,0 +1,17 @@
+{
+  "name": "node-getKid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fidm/asn1": "^1.0.4",
+    "sha256-uint8array": "^0.10.1",
+    "tweetnacl": "^1.0.3"
+  }
+}
